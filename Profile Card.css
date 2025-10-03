@@ -1,0 +1,19 @@
+body {
+    color: rgb(133, 61, 159);
+    border: 2px;
+    border-color: rgb(96, 37, 115);
+    border-style: solid;
+    padding: 40px 0px 50px;
+    margin: 10px;
+    text-align: center;
+    width: 330px;
+    
+}
+
+img {
+    width: 100px;
+    border-radius: 50px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(153, 115, 179);
+}
